@@ -6,14 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: inmydelorean
+title: Quality is a habit
 email: inmydelorean@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello World! I'm a QA Engineer from Ukraine.
-  Actually I use this site to train my git and all other skills.
-  So if you see all this mess around please don't be confused.
-  Anyway if you reading this I wash you all the best.
-  May the force be with you!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: inmydelorean
