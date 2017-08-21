@@ -14,9 +14,9 @@ git push -u origin master
 
 This should be fine for now))
 
-UPD. Yessss! It works! Just need to save file as .markdown instead of .mdowm
-
 So if I add [this link][link1] here (hint: git guide for dummies) it should work as in first post. 
+
+UPD. Yessss! It works! Just need to save file as .markdown instead of .mdowm
 
 [link1]: http://rogerdudler.github.io/git-guide/
 
