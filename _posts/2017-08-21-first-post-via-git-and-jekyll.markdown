@@ -16,5 +16,6 @@ This should be fine for now))
 
 So if I add [this link][link1] here (hint: git guide for dummies) it should work as in first post. 
 
-[link1]: http://rogerdudler.github.io/git-guide/
+UPD. Yessss! It works! Just need to save file as .markdown instead of .mdowm
 
+[link1]: http://rogerdudler.github.io/git-guide/
